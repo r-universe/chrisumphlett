@@ -1,5 +1,9 @@
 [
   {
+    "package": "reveneraR",
+    "oncran": true
+  },
+  {
     "package": "zdeskR",
     "oncran": true
   }
