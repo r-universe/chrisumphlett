@@ -13,3 +13,8 @@
 	url = https://github.com/chrisumphlett/zdeskr
 	shallow = true
 	registered = true
+[submodule "zoomr"]
+	path = zoomr
+	url = https://github.com/chrisumphlett/zoomr
+	shallow = true
+	registered = true

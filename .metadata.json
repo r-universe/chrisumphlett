@@ -6,5 +6,9 @@
   {
     "package": "zdeskR",
     "oncran": true
+  },
+  {
+    "package": "zoomr",
+    "oncran": true
   }
 ]
