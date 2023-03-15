@@ -1,6 +1,18 @@
 [
   {
+    "package": "ibmAcousticR",
+    "oncran": true
+  },
+  {
+    "package": "marketr",
+    "oncran": true
+  },
+  {
     "package": "reveneraR",
+    "oncran": true
+  },
+  {
+    "package": "skilljaR",
     "oncran": true
   },
   {
