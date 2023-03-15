@@ -1,10 +1,10 @@
 [
   {
-    "package": "zdeskR",
+    "package": "reveneraR",
     "oncran": true
   },
   {
-    "package": "reveneraR",
+    "package": "zdeskR",
     "oncran": true
   },
   {
