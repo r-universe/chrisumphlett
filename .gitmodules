@@ -18,6 +18,11 @@
 	url = https://github.com/chrisumphlett/revenerar
 	shallow = true
 	registered = true
+[submodule "revulyticsR"]
+	path = revulyticsR
+	url = https://github.com/cran/revulyticsR
+	shallow = true
+	registered = true
 [submodule "skilljaR"]
 	path = skilljaR
 	url = https://github.com/chrisumphlett/skilljar
