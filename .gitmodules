@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ibmAcousticR"]
 	path = ibmAcousticR
 	url = https://github.com/chrisumphlett/ibmacousticr
-	shallow = true
-	registered = true
 [submodule "marketr"]
 	path = marketr
 	url = https://github.com/chrisumphlett/marketr
-	shallow = true
-	registered = true
 [submodule "reveneraR"]
 	path = reveneraR
 	url = https://github.com/chrisumphlett/revenerar
-	shallow = true
-	registered = true
 [submodule "revulyticsR"]
 	path = revulyticsR
 	url = https://github.com/cran/revulyticsR
-	shallow = true
-	registered = true
 [submodule "skilljaR"]
 	path = skilljaR
 	url = https://github.com/chrisumphlett/skilljar
-	shallow = true
-	registered = true
 [submodule "zdeskR"]
 	path = zdeskR
 	url = https://github.com/chrisumphlett/zdeskr
-	shallow = true
-	registered = true
 [submodule "zoomr"]
 	path = zoomr
 	url = https://github.com/chrisumphlett/zoomr
-	shallow = true
-	registered = true
