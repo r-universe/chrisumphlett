@@ -11,9 +11,6 @@
 [submodule "reveneraR"]
 	path = reveneraR
 	url = https://github.com/chrisumphlett/revenerar
-[submodule "revulyticsR"]
-	path = revulyticsR
-	url = https://github.com/cran/revulyticsR
 [submodule "skilljaR"]
 	path = skilljaR
 	url = https://github.com/chrisumphlett/skilljar
