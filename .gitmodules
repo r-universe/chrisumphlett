@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ibmAcousticR"]
-	path = ibmAcousticR
-	url = https://github.com/chrisumphlett/ibmacousticr
 [submodule "marketr"]
 	path = marketr
 	url = https://github.com/chrisumphlett/marketr
